@@ -1,1 +1,1 @@
-# ecommerce-erp-suite
+# Ecommerce ERP Suite (Python)
